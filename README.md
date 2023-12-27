@@ -1,1 +1,1 @@
-# my-website
+This is the repository for my own website.
