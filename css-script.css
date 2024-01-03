@@ -25,7 +25,7 @@ body {
     padding-right: 1em;
 }
 .icon {
-    height: 2em;
+    height: 1.5em;
     padding-right: 0.7em;
 }
 .icon.hover:hover {
@@ -58,17 +58,32 @@ a {
     padding: 5em;
 }
 
+#middle-cv {
+    padding: 1em;
+}
+#middle-cv h1 {
+    font-size: 4em;
+}
+#middle-cv h2 {
+    padding-top: 1em;
+}
+
 /* Footer */
 #footer {
     background-color: #074788;
     position: fixed;
     bottom: 0;
     width: 100%;
+    height: 11em;
     text-align: center;
     color: #9eccfa;
-    padding-top: 1.5em;
-    padding-bottom: 1.5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 #footer h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.2em;
+    font-size: 1.5em;
+}
+#footer p {
+    font-size: 1em;
 }
